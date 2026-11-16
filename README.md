@@ -39,8 +39,8 @@ Drop in a repo →  Get a visual dependency graph → Chat with an AI agent that
 
 ```bash
 # Clone the repository
-git clone https://github.com/HimanshuxAI/byteeee.git
-cd byteeee
+git clone https://github.com/HimanshuxAI/polytrace-ai.git
+cd polytrace-ai
 
 # Install dependencies
 npm install
@@ -249,7 +249,7 @@ PolytraceAI uses **Tree-sitter WASM** for universal AST parsing across **12 lang
 ## 📁 Project Structure
 
 ```
-byteeee/
+polytrace-ai/
 ├── public/                    # Static assets (WASM files, demo video)
 ├── src/
 │   ├── components/            # React UI components (20+)
@@ -381,5 +381,5 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 </p>
 
 <p align="center">
-  <a href="https://github.com/HimanshuxAI/byteeee">⭐ Star us on GitHub</a>
+  <a href="https://github.com/HimanshuxAI/polytrace-ai">⭐ Star us on GitHub</a>
 </p>
